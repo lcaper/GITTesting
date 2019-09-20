@@ -1,9 +1,14 @@
 {
-  "orgName": "Demo Company",
+  "orgName": "EVOLVETEST",
   "edition": "Developer",
-  "features": [],
-  "settings": {
-    "orgPreferenceSettings": {
+  "features":
+  [
+    "PersonAccounts"
+  ],
+  "settings":
+  {
+    "orgPreferenceSettings":
+    {
       "s1DesktopEnabled": true
     }
   }
